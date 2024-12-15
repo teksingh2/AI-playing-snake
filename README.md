@@ -25,7 +25,8 @@ You can install the required packages using:
 ```
 pip install -r requirements.txt file
 ```
-```Then run command python3 agent.py
+```
+Then run command python3 agent.py
 ```
 
 
